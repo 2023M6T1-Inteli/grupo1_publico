@@ -7,6 +7,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com uma 
 # Projeto: *Solução de otimização de corte de bobinas de papel*
 
 # Grupo: *Blade Runners*
+<img src="img/team-logo.png" alt="team-logo" width="300"/>
 
 # Alunos
 
