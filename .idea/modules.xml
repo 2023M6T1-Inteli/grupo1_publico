@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/grupo1_publico.iml" filepath="$PROJECT_DIR$/.idea/grupo1_publico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codigo/planejador/planejador.iml" filepath="$PROJECT_DIR$/codigo/planejador/planejador.iml" />
+    </modules>
+  </component>
+</project>
