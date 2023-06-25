@@ -20,11 +20,11 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com uma 
 
 # Descrição
 
-*Descrição_resumida_do_projeto*
+As principais empresas brasileiras no setor de papel e celulose, têm como foco a produção de papel para embalagens, papelão ondulado, sacos industriais e outros produtos. Em suas buscas contínuas por aprimorar a eficiência produtiva e diminuir as perdas, enfrentam um desafio significativo no planejamento industrial do setor de produção de papel. Nesse contexto, o algoritmo de conjugação de bobinas desempenha um papel fundamental, sendo utilizado diariamente para atender aos pedidos de diversos clientes. O objetivo é maximizar a conjugação de bobinas e minimizar o desperdício, transformando este grande desafio em um problema de utilização essencial para o sucesso destas empresas.
 
 # Guia de instalação
 
-# Guia para preparar o ambiente de desenvolvimento
+## Guia para preparar o ambiente de desenvolvimento
 
 1 - Instalar JDK 19 (https://docs.oracle.com/en/java/javase/19/install/installation-jdk-microsoft-windows-platforms.html#GUID-DAF345BA-B3E7-4CF2-B87A-B6662D691840)
 
@@ -48,7 +48,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com uma 
 
 7 - Executar o comando 'mvn clean install' no terminal da IDE
 
-# Guia para execução
+## Guia para execução
 ### Requisitos mínimos
 
 Para utilizar a aplicação foi testado em um computador com as seguintes específicações:
@@ -75,8 +75,8 @@ grupo1_publico -> codigo -> planejador -> src -> main -> java -> inteli -> cc6 -
 
 Ao encontrar o diretório abrir o arquivo Main onde está o inicio da aplicação em desktop, criada com Swing e Processing para desenhar as bobinas, após isso execute o programa e aguarde que aplicação seja iniciada.
 
-Ao finalizar de executar o programa, o usuário será direcionado para a página inicial do aplicativo.
-
+Ao finalizar o processo de executar o programa, o usuário será direcionado para uma tela de carregamento, e então, para a página principal do aplicativo.
+![Menu inicial da aplicação](img/user-manual-splashscreen.png)
 ![Menu inicial da aplicação](img/user-manual-menu.png)
 
 O primeiro passo a ser realizado é carregar o arquivo que contém todas as informações do pedido, para isso clique no botão "Carregar arquivos" que está em vermelho na imagem abaixo:
@@ -119,7 +119,7 @@ Ao clicar em "Ok", usuário terá a visualização dos padrões ao lado direito 
 
 ![Confirmação executar modelo](img/user-manual-menu-execute.png)
 
-O usuário pode também visualizar os desenhos das bobinas de cada padrão, para isso é necessário clicar no botão verde "Visualizar Bobinas"
+O usuário pode também visualizar os desenhos das bobinas de cada padrão, para isso é necessário clicar no botão verde "Visualizar Bobinas" e utilizar o botão scroll do mouse para navegar entre os desenhos.
 
 ![Visualizar bobina](img/user-manual-plot-coil.png)
 
